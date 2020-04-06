@@ -1,8 +1,8 @@
 name: flutter_android_mate_data
 description: this Flutter plugin is use get android mate_data value
-version: 0.0.1
-author:
-homepage:
+version: 1.0.0
+author: dmskys
+homepage: https://github.com/dmskys/flutter_android_mate_data
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
