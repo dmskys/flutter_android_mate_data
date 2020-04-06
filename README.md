@@ -2,6 +2,7 @@
 
 this Flutter plugin is use get android mate_data value
 
+一个flutter插件 用于获取android Manifest中meta-data配置项的值
 ## Getting Started
 
 This project is a starting point for a Flutter
